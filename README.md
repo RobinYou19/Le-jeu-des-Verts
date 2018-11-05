@@ -1,5 +1,2 @@
 # Le-jeu-des-Verts
-Python implementation of the baton game
-
-
-BONJOUR A TOUS 
+Python implementation of the Quoridor game
